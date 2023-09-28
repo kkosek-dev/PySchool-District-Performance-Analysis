@@ -20,8 +20,8 @@ The data source for this project comes from Mockaroo, a data generator useful fo
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept "PyCitySchools/Resources" within this repo.    
-3. Jupyter Notebook script and analysis text are being kept "PyCitySchools".
-4. Analysis Images taken from jupyter notebook are being kept "Images".
+2. Raw Data is being kept [here](pandas-challenge/Starter_Code/PyCitySchools/Resources) within this repo.    
+3. Jupyter Notebook script and analysis text are being kept [here](pandas-challenge/Starter_Code/PyCitySchools).
+4. Analysis Images taken from jupyter notebook are being kept [here](pandas-challenge/Starter_Code/Images).
 
 
