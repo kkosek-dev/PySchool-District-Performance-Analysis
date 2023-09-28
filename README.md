@@ -1,10 +1,10 @@
 # pandas-challenge
-This project
+This project is a part of the Module 4 challenge in the Vanderbilt University Data Analytics BootCamp and is written entirely by the author of the repository. 
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to analyze a dataset of student test scores and their school identification information to understand trends in the data. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to analyze a dataset of student test scores and the respective student's school identification information to understand trends in the data. In practice, this project could be effective for strategically advising a school board or district officials on budget allocation, school zone decisions, cirriculum, etc.
 
 ### Methods Used
 * Summary Statistics
@@ -15,19 +15,13 @@ The purpose of this project is to analyze a dataset of student test scores and t
 * Pandas, jupyter
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+The data source for this project comes from Mockaroo, a data generator useful for demoing new software. This limits the data analysis to entirely hypothetical for the arbitrary city of PyCity; although, this particular district could benefit significantly from cirriculum and school spending modifications. The primary statistical methods used in the project are metrics of central tendency and comparison, yet the project lacks visualizations. Thus, data visualization presents a potential future direction for the project.
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data is being kept "PyCitySchools/Resources" within this repo.    
+3. Jupyter Notebook script and analysis text are being kept "PyCitySchools".
+4. Analysis Images taken from jupyter notebook are being kept "Images".
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
 
