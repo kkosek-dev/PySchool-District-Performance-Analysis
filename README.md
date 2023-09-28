@@ -1,5 +1,5 @@
 # pandas-challenge
-This project is a part of the Module 4 challenge in the Vanderbilt University Data Analytics BootCamp and is written entirely by the author of the repository. 
+This project is a part of the Module 4 challenge in the Vanderbilt University Data Analytics BootCamp and is written entirely by the author of the repository. This README template is from the [Data Science Working Group](https://github.com/sfbrigade/data-science-wg/blob/f1625aba8ac51ad90ec008f8ebc5ca1c42b304d7/dswg_project_resources/Project-README-template.md). 
 
 #### -- Project Status: [Completed]
 
